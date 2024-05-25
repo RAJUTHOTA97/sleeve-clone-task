@@ -1,0 +1,223 @@
+.theme-preview {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .theme-option {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .theme-option:hover {
+    background-color: #e2e6ea;
+  }
+  
+  .share-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .share-icon img {
+    width: 50px;
+    height: 50px;
+  }
+  .head{
+    font-size:70px;
+    
+    font-weight: bolder;
+  }
+  .sub-head{
+    
+    font-size: 15px;
+  }
+  .buttons{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 180px;
+    margin-right: 10px;
+
+  }
+  .buttons2{
+    border: 2px grey;
+    border-radius: 10px;
+    height: 45px;
+    width: 180px;
+    margin-left: 10px;
+
+
+  }
+  .inbutton{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+
+  }
+  .para{
+    color: rgb(186,186,186);
+    font-size: 13px;
+    
+  }
+  .scrol{
+    width: 600px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: rgb(250,251,253);
+  }
+  .version{
+    color: blue;
+    font-size: 10px;
+  }
+  .hed{
+    font-size:50px;
+    
+    font-weight: bolder;
+
+  }
+  .sub-hed{
+    font-size: 23px;
+    font-weight: 400;
+  }
+  .imgflow{
+    position: relative;
+    left: 23px;
+    top: 16px;
+     
+  }
+  .card-span{
+    float: left;
+    position: relative;
+    top: 50px;
+  }
+  h3{
+    position: absolute;
+
+  }
+  .cardd{
+    background-color: rgb(237,245,255);
+  }
+  .cardd2{
+    background-color: rgb(240,253,253);
+     
+  }
+  
+  .imgflo{
+    position: relative;
+    left: 41px;
+    top: 43px;
+  }
+  .cust{
+    color: rgb(120,58,245);
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .countless{
+    font-weight: 700;
+  }
+  .countless-sub{
+    color: rgb(41,41,41);
+    font-size: 20px;
+  }
+  .inti{
+    color: red;
+    font-size: 12px;
+    font-weight:500;
+  }
+  .like{
+    font-size: 50px;
+    font-weight: 500;
+  }
+  .card-text{
+    font-size: 22px;
+    color: rgb(154,74,74);
+  }
+  .card3{
+    background-color: rgb(252,238,238);
+   
+  }
+  .card4{
+    background-color: rgb(243,250,243);
+    
+  }
+  .card-text-2{
+    font-size: 22px;
+    color: rgb(28,93,27);
+  }
+   .last{
+    border: 2px solid rgb(249,250,251);
+    width: 1110px;
+    background-color: rgb(249,250,251);
+    border-radius: 20px;
+   }
+   .text{
+    float: right;
+    position: relative;
+    right: 70px;
+    font-size: 20px;
+    font-weight: 500;
+   }
+   .last-text{
+    float: right;
+    position: relative;
+    right: 20px;
+   }
+   .last-text1{
+    float: right;
+    position: relative;
+    right: 20px;
+   }
+   .lastbtn{
+    float: right;
+    position: relative;
+    right: 80px;
+    border: 0px;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+   }
+   .lastbtn1{
+    float: right;
+    position: relative;
+    right: 20px;
+    border: 0px;
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+
+   }
+   .imge{
+    position: relative;
+    top: 20px;
+   }
+   .card5{
+    background-color: rgb(249,250,251);
+    border-radius: 20px;
+   }
+   .card6{
+    background-color: rgb(249,250,251);
+    border-radius: 20px;
+
+   }
+   /* .main-parallax{
+    position: relative;
+    height: 10vh;
+   } */
+   .parallax{
+    width: 450px;
+    border-radius: 20px;
+    position: sticky;
+    top: 10px;
+    margin-left: 600px;
+    z-index: -1;
+    
+    
+   }
+   .grid{
+    display: grid;
+    grid-template-columns: auto auto;
+   }
